@@ -1,0 +1,1152 @@
+Added Component: Designator=C1(C0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "E:\YandexDisk\!Projects\Datasheet\Забугор\Murata\Capacitors ceramic.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Family"; Value = "Конденсатор"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Murata"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ManufacturerPartNumber"; Value = "GRM1885C1H220JA01D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power/Voltage"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rem"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "490-1411-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature"; Value = "-55...+125"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TKE"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "22пФ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "50В"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Корпус"; Value = "C0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Примечание"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C2(C0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "E:\YandexDisk\!Projects\Datasheet\Забугор\Murata\Capacitors ceramic.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Family"; Value = "Конденсатор"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Murata"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ManufacturerPartNumber"; Value = "GRM1885C1H220JA01D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power/Voltage"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rem"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "490-1411-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature"; Value = "-55...+125"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TKE"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "22пФ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "50В"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Корпус"; Value = "C0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Примечание"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C3(C0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "E:\YandexDisk\!Projects\Datasheet\Забугор\Murata\Capacitors ceramic.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Family"; Value = "Конденсатор"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Murata"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ManufacturerPartNumber"; Value = "GRM1885C1HR10BD01D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power/Voltage"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rem"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "81-GRM1885C1HR10BD1D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature"; Value = "-55...+125"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TKE"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100нФ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "50В"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Корпус"; Value = "C0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Примечание"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C4(CaseB)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Документация"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "E:\YandexDisk\!Projects\Datasheet\Забугор\Конденсаторы\Танталовые smd.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Description2"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Family"; Value = "Конденсатор"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "TECAP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ManufacturerPartNumber"; Value = "TECAP47/10VB10"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power/Voltage"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rem"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temp"; Value = "-55...+85"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TKE"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TU/GOST"; Value = "АЖЯР.673546.004ТУ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Umax"; Value = "6.3В"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "47мкФ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Корпус"; Value = "CASEB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Примечание"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=D1(A32)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "E:\YandexDisk\!Projects\Datasheet\Забугор\Atmel\Atmega8a.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Site"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.microchip.com/wwwproducts/en/ATmega8A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Family"; Value = "Микросхема"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Microchip\Atmel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ManufacturerPartNumber"; Value = "Atmega8A-AU"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power/Voltage"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rem"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature"; Value = "-40...+85"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TKE"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "Atmega8A-AU"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "5В"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Корпус"; Value = "32A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Примечание"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=HL1(LED0402)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "E:\YandexDisk\!Projects\Datasheet\Забугор\Kingbright\LED smd.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current"; Value = "20мА"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Family"; Value = "Светодиод"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Kingbright"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ManufacturerPartNumber"; Value = "KPHHS-1005MGCK"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power/Voltage"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rem"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "2449865"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TKE"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "KPHHS-1005MGCK"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "2.1В"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Корпус"; Value = "LED0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Примечание"; Value = "Красный"; VariantName = "[No Variations]"
+Added Component: Designator=HL2(LED0402)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "E:\YandexDisk\!Projects\Datasheet\Забугор\Kingbright\LED smd.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current"; Value = "20мА"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Family"; Value = "Светодиод"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Kingbright"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ManufacturerPartNumber"; Value = "KPHHS-1005MGCK"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power/Voltage"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rem"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "2449865"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TKE"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "KPHHS-1005MGCK"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "2.1В"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Корпус"; Value = "LED0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Примечание"; Value = "Красный"; VariantName = "[No Variations]"
+Added Component: Designator=HL3(LED0402)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "E:\YandexDisk\!Projects\Datasheet\Забугор\Kingbright\LED smd.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current"; Value = "20мА"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Family"; Value = "Светодиод"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Kingbright"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ManufacturerPartNumber"; Value = "KPHHS-1005MGCK"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power/Voltage"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rem"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "2449865"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TKE"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "KPHHS-1005MGCK"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "2.1В"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Корпус"; Value = "LED0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Примечание"; Value = "Красный"; VariantName = "[No Variations]"
+Added Component: Designator=HL4(LED0402)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "E:\YandexDisk\!Projects\Datasheet\Забугор\Kingbright\LED smd.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current"; Value = "20мА"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Family"; Value = "Светодиод"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Kingbright"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ManufacturerPartNumber"; Value = "KPHHS-1005MGCK"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power/Voltage"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rem"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "2449865"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TKE"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "KPHHS-1005MGCK"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "2.1В"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Корпус"; Value = "LED0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Примечание"; Value = "Красный"; VariantName = "[No Variations]"
+Added Component: Designator=HL5(LED0402)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "E:\YandexDisk\!Projects\Datasheet\Забугор\Kingbright\LED smd.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current"; Value = "20мА"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Family"; Value = "Светодиод"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Kingbright"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ManufacturerPartNumber"; Value = "KPHHS-1005MGCK"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power/Voltage"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rem"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "2449865"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TKE"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "KPHHS-1005MGCK"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "2.1В"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Корпус"; Value = "LED0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Примечание"; Value = "Красный"; VariantName = "[No Variations]"
+Added Component: Designator=HL6(LED0402)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "E:\YandexDisk\!Projects\Datasheet\Забугор\Kingbright\LED smd.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current"; Value = "20мА"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Family"; Value = "Светодиод"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Kingbright"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ManufacturerPartNumber"; Value = "KPHHS-1005MGCK"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power/Voltage"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rem"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "2449865"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TKE"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "KPHHS-1005MGCK"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "2.1В"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Корпус"; Value = "LED0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Примечание"; Value = "Красный"; VariantName = "[No Variations]"
+Added Component: Designator=HL7(LED0402)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "E:\YandexDisk\!Projects\Datasheet\Забугор\Kingbright\LED smd.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current"; Value = "20мА"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Family"; Value = "Светодиод"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Kingbright"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ManufacturerPartNumber"; Value = "KPHHS-1005MGCK"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power/Voltage"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rem"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "2449865"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TKE"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "KPHHS-1005MGCK"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "2.1В"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Корпус"; Value = "LED0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Примечание"; Value = "Красный"; VariantName = "[No Variations]"
+Added Component: Designator=HL8(LED0402)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "E:\YandexDisk\!Projects\Datasheet\Забугор\Kingbright\LED smd.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current"; Value = "20мА"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Family"; Value = "Светодиод"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Kingbright"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ManufacturerPartNumber"; Value = "KPHHS-1005MGCK"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power/Voltage"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rem"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "2449865"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TKE"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "KPHHS-1005MGCK"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "2.1В"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Корпус"; Value = "LED0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Примечание"; Value = "Красный"; VariantName = "[No Variations]"
+Added Component: Designator=HL9(LED0402)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "E:\YandexDisk\!Projects\Datasheet\Забугор\Kingbright\LED smd.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current"; Value = "20мА"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Family"; Value = "Светодиод"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Kingbright"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ManufacturerPartNumber"; Value = "KPHHS-1005MGCK"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power/Voltage"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rem"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "2449865"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TKE"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "KPHHS-1005MGCK"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "2.1В"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Корпус"; Value = "LED0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Примечание"; Value = "Красный"; VariantName = "[No Variations]"
+Added Component: Designator=HL10(LED0402)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "E:\YandexDisk\!Projects\Datasheet\Забугор\Kingbright\LED smd.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current"; Value = "20мА"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Family"; Value = "Светодиод"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Kingbright"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ManufacturerPartNumber"; Value = "KPHHS-1005MGCK"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power/Voltage"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rem"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "2449865"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TKE"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "KPHHS-1005MGCK"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "2.1В"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Корпус"; Value = "LED0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Примечание"; Value = "Красный"; VariantName = "[No Variations]"
+Added Component: Designator=HL11(LED0402)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "E:\YandexDisk\!Projects\Datasheet\Забугор\Kingbright\LED smd.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current"; Value = "20мА"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Family"; Value = "Светодиод"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Kingbright"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ManufacturerPartNumber"; Value = "KPHHS-1005MGCK"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power/Voltage"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rem"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "2449865"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TKE"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "KPHHS-1005MGCK"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "2.1В"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Корпус"; Value = "LED0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Примечание"; Value = "Красный"; VariantName = "[No Variations]"
+Added Component: Designator=HL12(LED0402)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "E:\YandexDisk\!Projects\Datasheet\Забугор\Kingbright\LED smd.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current"; Value = "20мА"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Family"; Value = "Светодиод"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Kingbright"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ManufacturerPartNumber"; Value = "KPHHS-1005MGCK"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power/Voltage"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rem"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "2449865"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TKE"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "KPHHS-1005MGCK"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "2.1В"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Корпус"; Value = "LED0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Примечание"; Value = "Красный"; VariantName = "[No Variations]"
+Added Component: Designator=HL13(LED0402)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "E:\YandexDisk\!Projects\Datasheet\Забугор\Kingbright\LED smd.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current"; Value = "20мА"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Family"; Value = "Светодиод"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Kingbright"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ManufacturerPartNumber"; Value = "KPHHS-1005MGCK"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power/Voltage"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rem"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "2449865"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TKE"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "KPHHS-1005MGCK"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "2.1В"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Корпус"; Value = "LED0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Примечание"; Value = "Красный"; VariantName = "[No Variations]"
+Added Component: Designator=HL14(LED0402)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "E:\YandexDisk\!Projects\Datasheet\Забугор\Kingbright\LED smd.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current"; Value = "20мА"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Family"; Value = "Светодиод"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Kingbright"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ManufacturerPartNumber"; Value = "KPHHS-1005MGCK"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power/Voltage"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rem"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "2449865"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TKE"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "KPHHS-1005MGCK"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "2.1В"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Корпус"; Value = "LED0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Примечание"; Value = "Красный"; VariantName = "[No Variations]"
+Added Component: Designator=HL15(LED0402)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "E:\YandexDisk\!Projects\Datasheet\Забугор\Kingbright\LED smd.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current"; Value = "20мА"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Family"; Value = "Светодиод"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Kingbright"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ManufacturerPartNumber"; Value = "KPHHS-1005MGCK"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power/Voltage"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rem"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "2449865"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TKE"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "KPHHS-1005MGCK"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "2.1В"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Корпус"; Value = "LED0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Примечание"; Value = "Красный"; VariantName = "[No Variations]"
+Added Component: Designator=HL16(LED0402)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "E:\YandexDisk\!Projects\Datasheet\Забугор\Kingbright\LED smd.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current"; Value = "20мА"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Family"; Value = "Светодиод"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Kingbright"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ManufacturerPartNumber"; Value = "KPHHS-1005MGCK"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power/Voltage"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rem"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "2449865"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TKE"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "KPHHS-1005MGCK"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "2.1В"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Корпус"; Value = "LED0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Примечание"; Value = "Красный"; VariantName = "[No Variations]"
+Added Component: Designator=R1(R0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "E:\YandexDisk\!Projects\Datasheet\Забугор\Vishay\Резисторы CRCW.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Family"; Value = "Резистор"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Vishay"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ManufacturerPartNumber"; Value = "CRCW06034K70JNEA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "CRCW06034K70JNEA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power/Voltage"; Value = "0.1Вт"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rem"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "541-2.2KGTR-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature"; Value = "-55...+155"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TKE"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "2.2кОм"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "75В"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Корпус"; Value = "R0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Примечание"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R2(R0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "E:\YandexDisk\!Projects\Datasheet\Забугор\Vishay\Резисторы CRCW.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Family"; Value = "Резистор"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Vishay"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ManufacturerPartNumber"; Value = "CRCW060368R0JNEA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "CRCW060368R0JNEA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power/Voltage"; Value = "0.1Вт"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rem"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "541-10KGCT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature"; Value = "-55...+155"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TKE"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "68Ом"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "75В"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Корпус"; Value = "R0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Примечание"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R3(R0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "E:\YandexDisk\!Projects\Datasheet\Забугор\Vishay\Резисторы CRCW.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Family"; Value = "Резистор"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Vishay"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ManufacturerPartNumber"; Value = "CRCW060368R0JNEA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "CRCW060368R0JNEA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power/Voltage"; Value = "0.1Вт"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rem"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "541-10KGCT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature"; Value = "-55...+155"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TKE"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "68Ом"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "75В"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Корпус"; Value = "R0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Примечание"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R4(R0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "E:\YandexDisk\!Projects\Datasheet\Забугор\Vishay\Резисторы CRCW.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Family"; Value = "Резистор"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Vishay"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ManufacturerPartNumber"; Value = "CRCW06034K70JNEA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "CRCW06034K70JNEA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power/Voltage"; Value = "0.1Вт"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rem"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature"; Value = "-55...+155"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TKE"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "4.7кОм"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "75В"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Корпус"; Value = "R0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Примечание"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R5(R0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "E:\YandexDisk\!Projects\Datasheet\Забугор\Vishay\Резисторы CRCW.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Family"; Value = "Резистор"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Vishay"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ManufacturerPartNumber"; Value = "CRCW06034K7JNEA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "CRCW060310K0JNEA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power/Voltage"; Value = "0.1Вт"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rem"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "541-10KGCT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature"; Value = "-55...+155"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TKE"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10кОм"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "75В"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Корпус"; Value = "R0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Примечание"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R6(R0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "E:\YandexDisk\!Projects\Datasheet\Забугор\Vishay\Резисторы CRCW.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Family"; Value = "Резистор"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Vishay"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ManufacturerPartNumber"; Value = "CRCW0603200RJNEA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "CRCW0603200RJNEA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power/Voltage"; Value = "0.1Вт"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rem"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "541-10KGCT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature"; Value = "-55...+155"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TKE"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "200Ом"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "75В"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Корпус"; Value = "R0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Примечание"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R7(R0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "E:\YandexDisk\!Projects\Datasheet\Забугор\Vishay\Резисторы CRCW.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Family"; Value = "Резистор"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Vishay"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ManufacturerPartNumber"; Value = "CRCW0603200RJNEA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "CRCW0603200RJNEA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power/Voltage"; Value = "0.1Вт"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rem"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "541-10KGCT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature"; Value = "-55...+155"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TKE"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "200Ом"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "75В"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Корпус"; Value = "R0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Примечание"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R8(R0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "E:\YandexDisk\!Projects\Datasheet\Забугор\Vishay\Резисторы CRCW.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Family"; Value = "Резистор"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Vishay"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ManufacturerPartNumber"; Value = "CRCW0603200RJNEA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "CRCW0603200RJNEA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power/Voltage"; Value = "0.1Вт"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rem"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "541-10KGCT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature"; Value = "-55...+155"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TKE"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "200Ом"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "75В"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Корпус"; Value = "R0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Примечание"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R9(R0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "E:\YandexDisk\!Projects\Datasheet\Забугор\Vishay\Резисторы CRCW.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Family"; Value = "Резистор"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Vishay"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ManufacturerPartNumber"; Value = "CRCW0603200RJNEA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "CRCW0603200RJNEA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power/Voltage"; Value = "0.1Вт"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rem"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "541-10KGCT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature"; Value = "-55...+155"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TKE"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "200Ом"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "75В"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Корпус"; Value = "R0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Примечание"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R10(R0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "E:\YandexDisk\!Projects\Datasheet\Забугор\Vishay\Резисторы CRCW.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Family"; Value = "Резистор"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Vishay"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ManufacturerPartNumber"; Value = "CRCW0603200RJNEA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "CRCW0603200RJNEA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power/Voltage"; Value = "0.1Вт"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rem"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "541-10KGCT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature"; Value = "-55...+155"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TKE"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "200Ом"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "75В"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Корпус"; Value = "R0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Примечание"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R11(R0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "E:\YandexDisk\!Projects\Datasheet\Забугор\Vishay\Резисторы CRCW.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Family"; Value = "Резистор"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Vishay"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ManufacturerPartNumber"; Value = "CRCW0603200RJNEA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "CRCW0603200RJNEA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power/Voltage"; Value = "0.1Вт"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rem"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "541-10KGCT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature"; Value = "-55...+155"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TKE"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "200Ом"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "75В"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Корпус"; Value = "R0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Примечание"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R12(R0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "E:\YandexDisk\!Projects\Datasheet\Забугор\Vishay\Резисторы CRCW.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Family"; Value = "Резистор"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Vishay"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ManufacturerPartNumber"; Value = "CRCW0603200RJNEA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "CRCW0603200RJNEA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power/Voltage"; Value = "0.1Вт"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rem"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "541-10KGCT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature"; Value = "-55...+155"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TKE"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "200Ом"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "75В"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Корпус"; Value = "R0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Примечание"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R13(R0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "E:\YandexDisk\!Projects\Datasheet\Забугор\Vishay\Резисторы CRCW.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Family"; Value = "Резистор"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Vishay"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ManufacturerPartNumber"; Value = "CRCW0603200RJNEA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "CRCW0603200RJNEA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power/Voltage"; Value = "0.1Вт"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rem"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "541-10KGCT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature"; Value = "-55...+155"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TKE"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "200Ом"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "75В"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Корпус"; Value = "R0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Примечание"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R14(R0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "E:\YandexDisk\!Projects\Datasheet\Забугор\Vishay\Резисторы CRCW.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Family"; Value = "Резистор"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Vishay"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ManufacturerPartNumber"; Value = "CRCW0603200RJNEA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "CRCW0603200RJNEA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power/Voltage"; Value = "0.1Вт"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rem"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "541-10KGCT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature"; Value = "-55...+155"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TKE"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "200Ом"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "75В"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Корпус"; Value = "R0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Примечание"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R15(R0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "E:\YandexDisk\!Projects\Datasheet\Забугор\Vishay\Резисторы CRCW.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Family"; Value = "Резистор"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Vishay"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ManufacturerPartNumber"; Value = "CRCW0603200RJNEA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "CRCW0603200RJNEA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power/Voltage"; Value = "0.1Вт"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rem"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "541-10KGCT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature"; Value = "-55...+155"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TKE"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "200Ом"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "75В"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Корпус"; Value = "R0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Примечание"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R16(R0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "E:\YandexDisk\!Projects\Datasheet\Забугор\Vishay\Резисторы CRCW.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Family"; Value = "Резистор"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Vishay"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ManufacturerPartNumber"; Value = "CRCW0603200RJNEA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "CRCW0603200RJNEA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power/Voltage"; Value = "0.1Вт"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rem"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "541-10KGCT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature"; Value = "-55...+155"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TKE"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "200Ом"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "75В"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Корпус"; Value = "R0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Примечание"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R17(R0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "E:\YandexDisk\!Projects\Datasheet\Забугор\Vishay\Резисторы CRCW.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Family"; Value = "Резистор"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Vishay"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ManufacturerPartNumber"; Value = "CRCW0603200RJNEA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "CRCW0603200RJNEA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power/Voltage"; Value = "0.1Вт"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rem"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "541-10KGCT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature"; Value = "-55...+155"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TKE"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "200Ом"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "75В"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Корпус"; Value = "R0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Примечание"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R18(R0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "E:\YandexDisk\!Projects\Datasheet\Забугор\Vishay\Резисторы CRCW.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Family"; Value = "Резистор"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Vishay"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ManufacturerPartNumber"; Value = "CRCW0603200RJNEA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "CRCW0603200RJNEA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power/Voltage"; Value = "0.1Вт"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rem"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "541-10KGCT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature"; Value = "-55...+155"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TKE"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "200Ом"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "75В"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Корпус"; Value = "R0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Примечание"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R19(R0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "E:\YandexDisk\!Projects\Datasheet\Забугор\Vishay\Резисторы CRCW.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Family"; Value = "Резистор"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Vishay"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ManufacturerPartNumber"; Value = "CRCW0603200RJNEA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "CRCW0603200RJNEA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power/Voltage"; Value = "0.1Вт"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rem"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "541-10KGCT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature"; Value = "-55...+155"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TKE"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "200Ом"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "75В"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Корпус"; Value = "R0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Примечание"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R20(R0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "E:\YandexDisk\!Projects\Datasheet\Забугор\Vishay\Резисторы CRCW.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Family"; Value = "Резистор"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Vishay"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ManufacturerPartNumber"; Value = "CRCW0603200RJNEA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "CRCW0603200RJNEA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power/Voltage"; Value = "0.1Вт"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rem"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "541-10KGCT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature"; Value = "-55...+155"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TKE"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "200Ом"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "75В"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Корпус"; Value = "R0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Примечание"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R21(R0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "E:\YandexDisk\!Projects\Datasheet\Забугор\Vishay\Резисторы CRCW.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Family"; Value = "Резистор"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Vishay"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ManufacturerPartNumber"; Value = "CRCW0603200RJNEA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "CRCW0603200RJNEA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power/Voltage"; Value = "0.1Вт"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rem"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "541-10KGCT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature"; Value = "-55...+155"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TKE"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "200Ом"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "75В"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Корпус"; Value = "R0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Примечание"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=VD1(SOD-523F)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "E:\YandexDisk\!Projects\Datasheet\Забугор\Fairchild\Zener MM5.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Family"; Value = "Стабилитрон"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "ON Semiconductor/Fairchild"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ManufacturerPartNumber"; Value = "MM5Z3V6TR-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power/Voltage"; Value = "200мВт"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rem"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "MM5Z3V6TR-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature"; Value = "-55...+155"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TKE"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "6%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "MM5Z3V6"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Корпус"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Примечание"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=VD2(SOD-523F)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "E:\YandexDisk\!Projects\Datasheet\Забугор\Fairchild\Zener MM5.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Family"; Value = "Стабилитрон"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "ON Semiconductor/Fairchild"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ManufacturerPartNumber"; Value = "MM5Z3V6TR-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power/Voltage"; Value = "200мВт"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rem"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "MM5Z3V6TR-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature"; Value = "-55...+155"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TKE"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "6%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "MM5Z3V6"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Корпус"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Примечание"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=X1(USB)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Family"; Value = "Вилка"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ManufacturerPartNumber"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power/Voltage"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rem"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temp"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TKE"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TU/GOST"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Umax"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "USB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Корпус"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Примечание"; Value = "USB вилка на печати"; VariantName = "[No Variations]"
+Added Component: Designator=X2(SPI)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Family"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ManufacturerPartNumber"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power/Voltage"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rem"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temp"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TKE"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TU/GOST"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Umax"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Корпус"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Примечание"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=ZQ1(HC-49SM)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "E:\YandexDisk\!Projects\Datasheet\Забугор\Резонаторы\Multicomp.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Чип и дип"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.chipdip.ru/product/16mhz-hc-49sm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Family"; Value = "Резонатор"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Multicomp"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ManufacturerPartNumber"; Value = "HC49SM-16-30-50-60-16-ATF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power/Voltage"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rem"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature"; Value = "-10...+60"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TKE"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "HC-49SM 16 Мгц"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Корпус"; Value = "HC-49/SM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Примечание"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C1-1
+Added Pin To Net: NetName=Xtal2 Pin=C1-2
+Added Pin To Net: NetName=GND Pin=C2-1
+Added Pin To Net: NetName=Xtal1 Pin=C2-2
+Added Pin To Net: NetName=GND Pin=C3-1
+Added Pin To Net: NetName=+5V Pin=C3-2
+Added Pin To Net: NetName=+5V Pin=C4-1
+Added Pin To Net: NetName=GND Pin=C4-2
+Added Pin To Net: NetName=LED4 Pin=D1-1
+Added Pin To Net: NetName=LED5 Pin=D1-2
+Added Pin To Net: NetName=GND Pin=D1-3
+Added Pin To Net: NetName=+5V Pin=D1-4
+Added Pin To Net: NetName=GND Pin=D1-5
+Added Pin To Net: NetName=+5V Pin=D1-6
+Added Pin To Net: NetName=Xtal2 Pin=D1-7
+Added Pin To Net: NetName=Xtal1 Pin=D1-8
+Added Pin To Net: NetName=LED6 Pin=D1-9
+Added Pin To Net: NetName=LED7 Pin=D1-10
+Added Pin To Net: NetName=LED8 Pin=D1-11
+Added Pin To Net: NetName=LED9 Pin=D1-12
+Added Pin To Net: NetName=LED10 Pin=D1-13
+Added Pin To Net: NetName=LED11 Pin=D1-14
+Added Pin To Net: NetName=MOSI Pin=D1-15
+Added Pin To Net: NetName=MISO Pin=D1-16
+Added Pin To Net: NetName=SCK Pin=D1-17
+Added Pin To Net: NetName=+5V Pin=D1-18
+Added Pin To Net: NetName=GND Pin=D1-21
+Added Pin To Net: NetName=LED12 Pin=D1-22
+Added Pin To Net: NetName=CPU_D+ Pin=D1-23
+Added Pin To Net: NetName=CPU_D- Pin=D1-24
+Added Pin To Net: NetName=LED13 Pin=D1-25
+Added Pin To Net: NetName=LED14 Pin=D1-26
+Added Pin To Net: NetName=LED15 Pin=D1-27
+Added Pin To Net: NetName=LED16 Pin=D1-28
+Added Pin To Net: NetName=Reset Pin=D1-29
+Added Pin To Net: NetName=LED1 Pin=D1-30
+Added Pin To Net: NetName=LED2 Pin=D1-31
+Added Pin To Net: NetName=LED3 Pin=D1-32
+Added Pin To Net: NetName=LED13 Pin=HL1-1
+Added Pin To Net: NetName=NetHL1_2 Pin=HL1-2
+Added Pin To Net: NetName=LED14 Pin=HL2-1
+Added Pin To Net: NetName=NetHL2_2 Pin=HL2-2
+Added Pin To Net: NetName=LED15 Pin=HL3-1
+Added Pin To Net: NetName=NetHL3_2 Pin=HL3-2
+Added Pin To Net: NetName=LED1 Pin=HL4-1
+Added Pin To Net: NetName=NetHL4_2 Pin=HL4-2
+Added Pin To Net: NetName=LED7 Pin=HL5-1
+Added Pin To Net: NetName=NetHL5_2 Pin=HL5-2
+Added Pin To Net: NetName=LED16 Pin=HL6-1
+Added Pin To Net: NetName=NetHL6_2 Pin=HL6-2
+Added Pin To Net: NetName=LED2 Pin=HL7-1
+Added Pin To Net: NetName=NetHL7_2 Pin=HL7-2
+Added Pin To Net: NetName=LED8 Pin=HL8-1
+Added Pin To Net: NetName=NetHL8_2 Pin=HL8-2
+Added Pin To Net: NetName=LED3 Pin=HL9-1
+Added Pin To Net: NetName=NetHL9_2 Pin=HL9-2
+Added Pin To Net: NetName=LED9 Pin=HL10-1
+Added Pin To Net: NetName=NetHL10_2 Pin=HL10-2
+Added Pin To Net: NetName=LED4 Pin=HL11-1
+Added Pin To Net: NetName=NetHL11_2 Pin=HL11-2
+Added Pin To Net: NetName=LED10 Pin=HL12-1
+Added Pin To Net: NetName=NetHL12_2 Pin=HL12-2
+Added Pin To Net: NetName=LED5 Pin=HL13-1
+Added Pin To Net: NetName=NetHL13_2 Pin=HL13-2
+Added Pin To Net: NetName=LED11 Pin=HL14-1
+Added Pin To Net: NetName=NetHL14_2 Pin=HL14-2
+Added Pin To Net: NetName=LED6 Pin=HL15-1
+Added Pin To Net: NetName=NetHL15_2 Pin=HL15-2
+Added Pin To Net: NetName=LED12 Pin=HL16-1
+Added Pin To Net: NetName=NetHL16_2 Pin=HL16-2
+Added Pin To Net: NetName=D- Pin=R1-1
+Added Pin To Net: NetName=+5V Pin=R1-2
+Added Pin To Net: NetName=CPU_D+ Pin=R2-1
+Added Pin To Net: NetName=D+ Pin=R2-2
+Added Pin To Net: NetName=CPU_D- Pin=R3-1
+Added Pin To Net: NetName=D- Pin=R3-2
+Added Pin To Net: NetName=GND Pin=R4-1
+Added Pin To Net: NetName=D- Pin=R4-2
+Added Pin To Net: NetName=Reset Pin=R5-1
+Added Pin To Net: NetName=+5V Pin=R5-2
+Added Pin To Net: NetName=NetHL1_2 Pin=R6-1
+Added Pin To Net: NetName=GND Pin=R6-2
+Added Pin To Net: NetName=NetHL2_2 Pin=R7-1
+Added Pin To Net: NetName=GND Pin=R7-2
+Added Pin To Net: NetName=NetHL3_2 Pin=R8-1
+Added Pin To Net: NetName=GND Pin=R8-2
+Added Pin To Net: NetName=NetHL4_2 Pin=R9-1
+Added Pin To Net: NetName=GND Pin=R9-2
+Added Pin To Net: NetName=NetHL5_2 Pin=R10-1
+Added Pin To Net: NetName=GND Pin=R10-2
+Added Pin To Net: NetName=NetHL6_2 Pin=R11-1
+Added Pin To Net: NetName=GND Pin=R11-2
+Added Pin To Net: NetName=NetHL7_2 Pin=R12-1
+Added Pin To Net: NetName=GND Pin=R12-2
+Added Pin To Net: NetName=NetHL8_2 Pin=R13-1
+Added Pin To Net: NetName=GND Pin=R13-2
+Added Pin To Net: NetName=NetHL9_2 Pin=R14-1
+Added Pin To Net: NetName=GND Pin=R14-2
+Added Pin To Net: NetName=NetHL10_2 Pin=R15-1
+Added Pin To Net: NetName=GND Pin=R15-2
+Added Pin To Net: NetName=NetHL11_2 Pin=R16-1
+Added Pin To Net: NetName=GND Pin=R16-2
+Added Pin To Net: NetName=NetHL12_2 Pin=R17-1
+Added Pin To Net: NetName=GND Pin=R17-2
+Added Pin To Net: NetName=NetHL13_2 Pin=R18-1
+Added Pin To Net: NetName=GND Pin=R18-2
+Added Pin To Net: NetName=NetHL14_2 Pin=R19-1
+Added Pin To Net: NetName=GND Pin=R19-2
+Added Pin To Net: NetName=NetHL15_2 Pin=R20-1
+Added Pin To Net: NetName=GND Pin=R20-2
+Added Pin To Net: NetName=NetHL16_2 Pin=R21-1
+Added Pin To Net: NetName=GND Pin=R21-2
+Added Pin To Net: NetName=D+ Pin=VD1-1
+Added Pin To Net: NetName=GND Pin=VD1-2
+Added Pin To Net: NetName=D- Pin=VD2-1
+Added Pin To Net: NetName=GND Pin=VD2-2
+Added Pin To Net: NetName=NetF1_2 Pin=X1-1
+Added Pin To Net: NetName=D- Pin=X1-2
+Added Pin To Net: NetName=D+ Pin=X1-3
+Added Pin To Net: NetName=GND Pin=X1-4
+Added Pin To Net: NetName=MOSI Pin=X2-1
+Added Pin To Net: NetName=MISO Pin=X2-2
+Added Pin To Net: NetName=SCK Pin=X2-3
+Added Pin To Net: NetName=Reset Pin=X2-4
+Added Pin To Net: NetName=+5V Pin=X2-5
+Added Pin To Net: NetName=GND Pin=X2-6
+Added Pin To Net: NetName=Xtal2 Pin=ZQ1-1
+Added Pin To Net: NetName=Xtal1 Pin=ZQ1-2
+Added Member To Class: ClassName=VisitCardScheme Member=Component C1 Конденсатор22пФ
+Added Member To Class: ClassName=VisitCardScheme Member=Component C2 Конденсатор22пФ
+Added Member To Class: ClassName=VisitCardScheme Member=Component C3 Конденсатор100нФ
+Added Member To Class: ClassName=VisitCardScheme Member=Component C4 Конденсатор 47мкФ
+Added Member To Class: ClassName=VisitCardScheme Member=Component D1 МикросхемаAtmega8A-AU
+Added Member To Class: ClassName=VisitCardScheme Member=Component HL1 СветодиодKPHHS-1005MGCK
+Added Member To Class: ClassName=VisitCardScheme Member=Component HL2 СветодиодKPHHS-1005MGCK
+Added Member To Class: ClassName=VisitCardScheme Member=Component HL3 СветодиодKPHHS-1005MGCK
+Added Member To Class: ClassName=VisitCardScheme Member=Component HL4 СветодиодKPHHS-1005MGCK
+Added Member To Class: ClassName=VisitCardScheme Member=Component HL5 СветодиодKPHHS-1005MGCK
+Added Member To Class: ClassName=VisitCardScheme Member=Component HL6 СветодиодKPHHS-1005MGCK
+Added Member To Class: ClassName=VisitCardScheme Member=Component HL7 СветодиодKPHHS-1005MGCK
+Added Member To Class: ClassName=VisitCardScheme Member=Component HL8 СветодиодKPHHS-1005MGCK
+Added Member To Class: ClassName=VisitCardScheme Member=Component HL9 СветодиодKPHHS-1005MGCK
+Added Member To Class: ClassName=VisitCardScheme Member=Component HL10 СветодиодKPHHS-1005MGCK
+Added Member To Class: ClassName=VisitCardScheme Member=Component HL11 СветодиодKPHHS-1005MGCK
+Added Member To Class: ClassName=VisitCardScheme Member=Component HL12 СветодиодKPHHS-1005MGCK
+Added Member To Class: ClassName=VisitCardScheme Member=Component HL13 СветодиодKPHHS-1005MGCK
+Added Member To Class: ClassName=VisitCardScheme Member=Component HL14 СветодиодKPHHS-1005MGCK
+Added Member To Class: ClassName=VisitCardScheme Member=Component HL15 СветодиодKPHHS-1005MGCK
+Added Member To Class: ClassName=VisitCardScheme Member=Component HL16 СветодиодKPHHS-1005MGCK
+Added Member To Class: ClassName=VisitCardScheme Member=Component R1 2.2кОм
+Added Member To Class: ClassName=VisitCardScheme Member=Component R2 68Ом
+Added Member To Class: ClassName=VisitCardScheme Member=Component R3 68Ом
+Added Member To Class: ClassName=VisitCardScheme Member=Component R4 4.7кОм
+Added Member To Class: ClassName=VisitCardScheme Member=Component R5 10кОм
+Added Member To Class: ClassName=VisitCardScheme Member=Component R6 200Ом
+Added Member To Class: ClassName=VisitCardScheme Member=Component R7 200Ом
+Added Member To Class: ClassName=VisitCardScheme Member=Component R8 200Ом
+Added Member To Class: ClassName=VisitCardScheme Member=Component R9 200Ом
+Added Member To Class: ClassName=VisitCardScheme Member=Component R10 200Ом
+Added Member To Class: ClassName=VisitCardScheme Member=Component R11 200Ом
+Added Member To Class: ClassName=VisitCardScheme Member=Component R12 200Ом
+Added Member To Class: ClassName=VisitCardScheme Member=Component R13 200Ом
+Added Member To Class: ClassName=VisitCardScheme Member=Component R14 200Ом
+Added Member To Class: ClassName=VisitCardScheme Member=Component R15 200Ом
+Added Member To Class: ClassName=VisitCardScheme Member=Component R16 200Ом
+Added Member To Class: ClassName=VisitCardScheme Member=Component R17 200Ом
+Added Member To Class: ClassName=VisitCardScheme Member=Component R18 200Ом
+Added Member To Class: ClassName=VisitCardScheme Member=Component R19 200Ом
+Added Member To Class: ClassName=VisitCardScheme Member=Component R20 200Ом
+Added Member To Class: ClassName=VisitCardScheme Member=Component R21 200Ом
+Added Member To Class: ClassName=VisitCardScheme Member=Component VD1 СтабилитронMM5Z3V6
+Added Member To Class: ClassName=VisitCardScheme Member=Component VD2 СтабилитронMM5Z3V6
+Added Member To Class: ClassName=VisitCardScheme Member=Component X1 Вилка USB
+Added Member To Class: ClassName=VisitCardScheme Member=Component X2  
+Added Member To Class: ClassName=VisitCardScheme Member=Component ZQ1 РезонаторHC-49SM 16 Мгц
+Added Room: Name=VisitCardScheme

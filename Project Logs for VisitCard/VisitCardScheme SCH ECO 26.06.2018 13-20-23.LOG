@@ -1,0 +1,118 @@
+Change Component Parameter Comment in C1 Old= New==Family+Value
+Change Component Parameter Comment in C2 Old= New==Family+Value
+Change Component Parameter Comment in C3 Old= New==Family+Value
+Change Component Parameter Comment in C4 Old= New==Family+' '+Value
+Change Component Parameter Comment in D1 Old= New==Family+Value
+Change Component Parameter Comment in F1 Old= New==Value
+Change Component Parameter Comment in HL1 Old= New==Family+Value
+Change Component Parameter Comment in HL2 Old= New==Family+Value
+Change Component Parameter Comment in HL3 Old= New==Family+Value
+Change Component Parameter Comment in HL4 Old= New==Family+Value
+Change Component Parameter Comment in HL5 Old= New==Family+Value
+Change Component Parameter Comment in HL6 Old= New==Family+Value
+Change Component Parameter Comment in HL7 Old= New==Family+Value
+Change Component Parameter Comment in HL8 Old= New==Family+Value
+Change Component Parameter Comment in HL9 Old= New==Family+Value
+Change Component Parameter Comment in HL10 Old= New==Family+Value
+Change Component Parameter Comment in HL11 Old= New==Family+Value
+Change Component Parameter Comment in HL12 Old= New==Family+Value
+Change Component Parameter Comment in HL13 Old= New==Family+Value
+Change Component Parameter Comment in HL14 Old= New==Family+Value
+Change Component Parameter Comment in HL15 Old= New==Family+Value
+Change Component Parameter Comment in HL16 Old= New==Family+Value
+Change Component Parameter Comment in R1 Old= New==Value
+Change Component Parameter Comment in R2 Old= New==Value
+Change Component Parameter Comment in R3 Old= New==Value
+Change Component Parameter Comment in R4 Old= New==Value
+Change Component Parameter Comment in R5 Old= New==Value
+Change Value of Parameter ManufacturerPartNumber in Part R5 Old=CRCW060310K0JNEA New=CRCW06034K7JNEA
+Change Component Parameter Comment in R6 Old= New==Value
+Change Component Parameter Comment in R7 Old= New==Value
+Change Component Parameter Comment in R8 Old= New==Value
+Change Component Parameter Comment in R9 Old= New==Value
+Change Component Parameter Comment in R10 Old= New==Value
+Change Component Parameter Comment in R11 Old= New==Value
+Change Component Parameter Comment in R12 Old= New==Value
+Change Component Parameter Comment in R13 Old= New==Value
+Change Component Parameter Comment in R14 Old= New==Value
+Change Component Parameter Comment in R15 Old= New==Value
+Change Component Parameter Comment in R16 Old= New==Value
+Change Component Parameter Comment in R17 Old= New==Value
+Change Component Parameter Comment in R18 Old= New==Value
+Change Component Parameter Comment in R19 Old= New==Value
+Change Component Parameter Comment in R20 Old= New==Value
+Change Component Parameter Comment in R21 Old= New==Value
+Change Component Parameter Comment in VD1 Old= New==Family+Value
+Change Component Parameter Comment in VD2 Old= New==Family+Value
+Change Component Parameter Comment in X1 Old= New==Family+' '+Value
+Change Component Parameter Comment in X1 Old= New==Family+' '+Value
+Change Component Parameter Comment in X1 Old= New==Family+' '+Value
+Change Component Parameter Comment in X1 Old= New==Family+' '+Value
+Change Component Parameter Comment in X1 Old= New==Family+' '+Value
+Change Component Parameter Comment in X2 Old= New==Family+' '+Value
+Change Component Parameter Comment in X2 Old= New==Family+' '+Value
+Change Component Parameter Comment in X2 Old= New==Family+' '+Value
+Change Component Parameter Comment in X2 Old= New==Family+' '+Value
+Change Component Parameter Comment in X2 Old= New==Family+' '+Value
+Change Component Parameter Comment in X2 Old= New==Family+' '+Value
+Change Component Parameter Comment in X2 Old= New==Family+' '+Value
+Change Component Parameter Comment in ZQ1 Old= New==Family+Value
+Change Value of Parameter Value in Part ZQ1 Old=16Ìãö New=HC-49SM 16 Ìãö
+Replace Symbol from C1 GRM1885C1H220JA01D in E:\YandexDisk\!Projects\Relex\PCB Visit card\VisitCard\VisitCardScheme.SchDoc with GRM1885C1H220JA01D from Capacitor.SchLib
+Replace Symbol from C2 GRM1885C1H220JA01D in E:\YandexDisk\!Projects\Relex\PCB Visit card\VisitCard\VisitCardScheme.SchDoc with GRM1885C1H220JA01D from Capacitor.SchLib
+Replace Symbol from C3 GRM1885C1HR10BD01D in E:\YandexDisk\!Projects\Relex\PCB Visit card\VisitCard\VisitCardScheme.SchDoc with GRM1885C1HR10BD01D from Capacitor.SchLib
+Replace Symbol from C4 TECAP47/10VB10 in E:\YandexDisk\!Projects\Relex\PCB Visit card\VisitCard\VisitCardScheme.SchDoc with TECAP47/10VB10 from Capacitor.SchLib
+Replace Symbol from D1 Atmega8A-AU in E:\YandexDisk\!Projects\Relex\PCB Visit card\VisitCard\VisitCardScheme.SchDoc with Atmega8A-AU from Atmel.SchLib
+Replace Symbol from F1 160016.0,4 in E:\YandexDisk\!Projects\Relex\PCB Visit card\VisitCard\VisitCardScheme.SchDoc with 160016.0,4 from Fuse.SchLib
+Replace Symbol from HL1 KPHHS-1005MGCK in E:\YandexDisk\!Projects\Relex\PCB Visit card\VisitCard\VisitCardScheme.SchDoc with KPHHS-1005MGCK from Led.SchLib
+Replace Symbol from HL2 KPHHS-1005MGCK in E:\YandexDisk\!Projects\Relex\PCB Visit card\VisitCard\VisitCardScheme.SchDoc with KPHHS-1005MGCK from Led.SchLib
+Replace Symbol from HL3 KPHHS-1005MGCK in E:\YandexDisk\!Projects\Relex\PCB Visit card\VisitCard\VisitCardScheme.SchDoc with KPHHS-1005MGCK from Led.SchLib
+Replace Symbol from HL4 KPHHS-1005MGCK in E:\YandexDisk\!Projects\Relex\PCB Visit card\VisitCard\VisitCardScheme.SchDoc with KPHHS-1005MGCK from Led.SchLib
+Replace Symbol from HL5 KPHHS-1005MGCK in E:\YandexDisk\!Projects\Relex\PCB Visit card\VisitCard\VisitCardScheme.SchDoc with KPHHS-1005MGCK from Led.SchLib
+Replace Symbol from HL6 KPHHS-1005MGCK in E:\YandexDisk\!Projects\Relex\PCB Visit card\VisitCard\VisitCardScheme.SchDoc with KPHHS-1005MGCK from Led.SchLib
+Replace Symbol from HL7 KPHHS-1005MGCK in E:\YandexDisk\!Projects\Relex\PCB Visit card\VisitCard\VisitCardScheme.SchDoc with KPHHS-1005MGCK from Led.SchLib
+Replace Symbol from HL8 KPHHS-1005MGCK in E:\YandexDisk\!Projects\Relex\PCB Visit card\VisitCard\VisitCardScheme.SchDoc with KPHHS-1005MGCK from Led.SchLib
+Replace Symbol from HL9 KPHHS-1005MGCK in E:\YandexDisk\!Projects\Relex\PCB Visit card\VisitCard\VisitCardScheme.SchDoc with KPHHS-1005MGCK from Led.SchLib
+Replace Symbol from HL10 KPHHS-1005MGCK in E:\YandexDisk\!Projects\Relex\PCB Visit card\VisitCard\VisitCardScheme.SchDoc with KPHHS-1005MGCK from Led.SchLib
+Replace Symbol from HL11 KPHHS-1005MGCK in E:\YandexDisk\!Projects\Relex\PCB Visit card\VisitCard\VisitCardScheme.SchDoc with KPHHS-1005MGCK from Led.SchLib
+Replace Symbol from HL12 KPHHS-1005MGCK in E:\YandexDisk\!Projects\Relex\PCB Visit card\VisitCard\VisitCardScheme.SchDoc with KPHHS-1005MGCK from Led.SchLib
+Replace Symbol from HL13 KPHHS-1005MGCK in E:\YandexDisk\!Projects\Relex\PCB Visit card\VisitCard\VisitCardScheme.SchDoc with KPHHS-1005MGCK from Led.SchLib
+Replace Symbol from HL14 KPHHS-1005MGCK in E:\YandexDisk\!Projects\Relex\PCB Visit card\VisitCard\VisitCardScheme.SchDoc with KPHHS-1005MGCK from Led.SchLib
+Replace Symbol from HL15 KPHHS-1005MGCK in E:\YandexDisk\!Projects\Relex\PCB Visit card\VisitCard\VisitCardScheme.SchDoc with KPHHS-1005MGCK from Led.SchLib
+Replace Symbol from HL16 KPHHS-1005MGCK in E:\YandexDisk\!Projects\Relex\PCB Visit card\VisitCard\VisitCardScheme.SchDoc with KPHHS-1005MGCK from Led.SchLib
+Replace Symbol from R1 CRCW06032K20JNEA in E:\YandexDisk\!Projects\Relex\PCB Visit card\VisitCard\VisitCardScheme.SchDoc with CRCW06032K20JNEA from Resistor.SchLib
+Replace Symbol from R2 CRCW060368R0JNEA in E:\YandexDisk\!Projects\Relex\PCB Visit card\VisitCard\VisitCardScheme.SchDoc with CRCW060368R0JNEA from Resistor.SchLib
+Replace Symbol from R3 CRCW060368R0JNEA in E:\YandexDisk\!Projects\Relex\PCB Visit card\VisitCard\VisitCardScheme.SchDoc with CRCW060368R0JNEA from Resistor.SchLib
+Replace Symbol from R4 CRCW06034K70JNEA in E:\YandexDisk\!Projects\Relex\PCB Visit card\VisitCard\VisitCardScheme.SchDoc with CRCW06034K70JNEA from Resistor.SchLib
+Replace Symbol from R5 CRCW060310K0JNEA in E:\YandexDisk\!Projects\Relex\PCB Visit card\VisitCard\VisitCardScheme.SchDoc with CRCW060310K0JNEA from Resistor.SchLib
+Replace Symbol from R6 CRCW0603200RJNEA in E:\YandexDisk\!Projects\Relex\PCB Visit card\VisitCard\VisitCardScheme.SchDoc with CRCW0603200RJNEA from Resistor.SchLib
+Replace Symbol from R7 CRCW0603200RJNEA in E:\YandexDisk\!Projects\Relex\PCB Visit card\VisitCard\VisitCardScheme.SchDoc with CRCW0603200RJNEA from Resistor.SchLib
+Replace Symbol from R8 CRCW0603200RJNEA in E:\YandexDisk\!Projects\Relex\PCB Visit card\VisitCard\VisitCardScheme.SchDoc with CRCW0603200RJNEA from Resistor.SchLib
+Replace Symbol from R9 CRCW0603200RJNEA in E:\YandexDisk\!Projects\Relex\PCB Visit card\VisitCard\VisitCardScheme.SchDoc with CRCW0603200RJNEA from Resistor.SchLib
+Replace Symbol from R10 CRCW0603200RJNEA in E:\YandexDisk\!Projects\Relex\PCB Visit card\VisitCard\VisitCardScheme.SchDoc with CRCW0603200RJNEA from Resistor.SchLib
+Replace Symbol from R11 CRCW0603200RJNEA in E:\YandexDisk\!Projects\Relex\PCB Visit card\VisitCard\VisitCardScheme.SchDoc with CRCW0603200RJNEA from Resistor.SchLib
+Replace Symbol from R12 CRCW0603200RJNEA in E:\YandexDisk\!Projects\Relex\PCB Visit card\VisitCard\VisitCardScheme.SchDoc with CRCW0603200RJNEA from Resistor.SchLib
+Replace Symbol from R13 CRCW0603200RJNEA in E:\YandexDisk\!Projects\Relex\PCB Visit card\VisitCard\VisitCardScheme.SchDoc with CRCW0603200RJNEA from Resistor.SchLib
+Replace Symbol from R14 CRCW0603200RJNEA in E:\YandexDisk\!Projects\Relex\PCB Visit card\VisitCard\VisitCardScheme.SchDoc with CRCW0603200RJNEA from Resistor.SchLib
+Replace Symbol from R15 CRCW0603200RJNEA in E:\YandexDisk\!Projects\Relex\PCB Visit card\VisitCard\VisitCardScheme.SchDoc with CRCW0603200RJNEA from Resistor.SchLib
+Replace Symbol from R16 CRCW0603200RJNEA in E:\YandexDisk\!Projects\Relex\PCB Visit card\VisitCard\VisitCardScheme.SchDoc with CRCW0603200RJNEA from Resistor.SchLib
+Replace Symbol from R17 CRCW0603200RJNEA in E:\YandexDisk\!Projects\Relex\PCB Visit card\VisitCard\VisitCardScheme.SchDoc with CRCW0603200RJNEA from Resistor.SchLib
+Replace Symbol from R18 CRCW0603200RJNEA in E:\YandexDisk\!Projects\Relex\PCB Visit card\VisitCard\VisitCardScheme.SchDoc with CRCW0603200RJNEA from Resistor.SchLib
+Replace Symbol from R19 CRCW0603200RJNEA in E:\YandexDisk\!Projects\Relex\PCB Visit card\VisitCard\VisitCardScheme.SchDoc with CRCW0603200RJNEA from Resistor.SchLib
+Replace Symbol from R20 CRCW0603200RJNEA in E:\YandexDisk\!Projects\Relex\PCB Visit card\VisitCard\VisitCardScheme.SchDoc with CRCW0603200RJNEA from Resistor.SchLib
+Replace Symbol from R21 CRCW0603200RJNEA in E:\YandexDisk\!Projects\Relex\PCB Visit card\VisitCard\VisitCardScheme.SchDoc with CRCW0603200RJNEA from Resistor.SchLib
+Replace Symbol from VD1 MM5Z3V6 in E:\YandexDisk\!Projects\Relex\PCB Visit card\VisitCard\VisitCardScheme.SchDoc with MM5Z3V6 from Diodes.SchLib
+Replace Symbol from VD2 MM5Z3V6 in E:\YandexDisk\!Projects\Relex\PCB Visit card\VisitCard\VisitCardScheme.SchDoc with MM5Z3V6 from Diodes.SchLib
+Replace Symbol from X1 USB_pcb in E:\YandexDisk\!Projects\Relex\PCB Visit card\VisitCard\VisitCardScheme.SchDoc with USB_pcb from Connector.SchLib
+Replace Symbol from X1 USB_pcb in E:\YandexDisk\!Projects\Relex\PCB Visit card\VisitCard\VisitCardScheme.SchDoc with USB_pcb from Connector.SchLib
+Replace Symbol from X1 USB_pcb in E:\YandexDisk\!Projects\Relex\PCB Visit card\VisitCard\VisitCardScheme.SchDoc with USB_pcb from Connector.SchLib
+Replace Symbol from X1 USB_pcb in E:\YandexDisk\!Projects\Relex\PCB Visit card\VisitCard\VisitCardScheme.SchDoc with USB_pcb from Connector.SchLib
+Replace Symbol from X1 USB_pcb in E:\YandexDisk\!Projects\Relex\PCB Visit card\VisitCard\VisitCardScheme.SchDoc with USB_pcb from Connector.SchLib
+Replace Symbol from X2 SPI_pcb in E:\YandexDisk\!Projects\Relex\PCB Visit card\VisitCard\VisitCardScheme.SchDoc with SPI_pcb from Connector.SchLib
+Replace Symbol from X2 SPI_pcb in E:\YandexDisk\!Projects\Relex\PCB Visit card\VisitCard\VisitCardScheme.SchDoc with SPI_pcb from Connector.SchLib
+Replace Symbol from X2 SPI_pcb in E:\YandexDisk\!Projects\Relex\PCB Visit card\VisitCard\VisitCardScheme.SchDoc with SPI_pcb from Connector.SchLib
+Replace Symbol from X2 SPI_pcb in E:\YandexDisk\!Projects\Relex\PCB Visit card\VisitCard\VisitCardScheme.SchDoc with SPI_pcb from Connector.SchLib
+Replace Symbol from X2 SPI_pcb in E:\YandexDisk\!Projects\Relex\PCB Visit card\VisitCard\VisitCardScheme.SchDoc with SPI_pcb from Connector.SchLib
+Replace Symbol from X2 SPI_pcb in E:\YandexDisk\!Projects\Relex\PCB Visit card\VisitCard\VisitCardScheme.SchDoc with SPI_pcb from Connector.SchLib
+Replace Symbol from X2 SPI_pcb in E:\YandexDisk\!Projects\Relex\PCB Visit card\VisitCard\VisitCardScheme.SchDoc with SPI_pcb from Connector.SchLib
+Replace Symbol from ZQ1 crystal_16Mhz_hc49sm in E:\YandexDisk\!Projects\Relex\PCB Visit card\VisitCard\VisitCardScheme.SchDoc with crystal_16Mhz_hc49sm from Crystal.SchLib

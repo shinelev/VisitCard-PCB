@@ -1,0 +1,24 @@
+Added Component: Designator=F1(Fuse 0.4A)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "E:\YandexDisk\!Projects\Datasheet\Забугор\Siba\Fuse.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current"; Value = "400мА"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Family"; Value = "Предохранитель"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Siba"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ManufacturerPartNumber"; Value = "160016.0,4"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power/Voltage"; Value = "250В"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rem"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "2132113"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TKE"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "Fuse 0.4A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Корпус"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Примечание"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+5V Pin=F1-1
+Added Pin To Net: NetName=NetF1_2 Pin=F1-2
+Added Member To Class: ClassName=VisitCardScheme Member=Component F1 Fuse 0.4A
+Added Room: Name=VisitCardScheme
