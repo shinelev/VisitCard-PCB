@@ -1,0 +1,17 @@
+Protel Design System Design Rule Check
+PCB File : E:\YandexDisk\!Projects\Relex\PCB Visit card\VisitCard\VisitCardPCB.PcbDoc
+Date     : 29.06.2018
+Time     : 18:16:17
+
+Processing Rule : Matched Lengths(Tolerance=25.4mm) (InDifferentialPairClass('USB'))
+   Violation between Matched Net Lengths: Between Net 1RX_N And Net 2RX_N Length:62.239mm is not within 25.4mm tolerance of Length:95.389mm (7.75mm short) 
+   Violation between Matched Net Lengths: Between Net 1RX_P And Net 2RX_N Length:25.464mm is not within 25.4mm tolerance of Length:95.389mm (44.525mm short) 
+   Violation between Matched Net Lengths: Between Net 2RX_P And Net 1RX_N Length:93.317mm is not within 25.4mm tolerance of Length:62.239mm (5.678mm short) 
+   Violation between Matched Net Lengths: Differential Pair 2RX Actual Length Difference against diff pair 1RX is: 50.502mm, Length Tolerance : 25.4mm.
+   Violation between Matched Net Lengths: Differential Pair 1RX Actual Length Difference against diff pair 2RX is: 50.502mm, Length Tolerance : 25.4mm.
+Rule Violations :5
+
+
+Violations Detected : 5
+Waived Violations : 0
+Time Elapsed        : 00:00:00

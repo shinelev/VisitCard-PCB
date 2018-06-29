@@ -362,23 +362,6 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document20]
-DocumentPath=VisitCardPCB.PcbDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=OOITERQB
-
-[Document21]
 DocumentPath=VisitCard.Annotation
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -395,7 +378,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document22]
+[Document21]
 DocumentPath=..\..\..\My\Altium\MyLib\Sch\Buttons.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -412,7 +395,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=AGMIEKCJ
 
-[Document23]
+[Document22]
 DocumentPath=..\..\..\My\Altium\MyLib\Pcb\Buttons.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -429,7 +412,45 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=QCAJHHGE
 
+[Document23]
+DocumentPath=VisitCardPCB.PcbDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=OOITERQB
+
+[Document24]
+DocumentPath=..\..\..\My\Altium\MyLib\ViaPad.PvLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
 [GeneratedDocument1]
+DocumentPath=Project Outputs for VisitCard\Design Rule Check - VisitCardPCB.html
+DItemRevisionGUID=
+
+[GeneratedDocument2]
 DocumentPath=BOM\Перечень элементов-VisitCard.xls
 DItemRevisionGUID=
 

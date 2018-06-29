@@ -1,0 +1,6 @@
+Change Net Name : Old Net Name=CPU_D+ New Net Name=2RX_P
+Change Net Name : Old Net Name=CPU_D- New Net Name=2RX_N
+Change Net Name : Old Net Name=D+ New Net Name=1RX_P
+Change Net Name : Old Net Name=D- New Net Name=1RX_N
+Added Differential Pair: Name=1RX
+Added Differential Pair: Name=2RX
