@@ -1,6 +1,6 @@
 Project Outputs Generation Report
 ---------------------------------
-Start Output Generation At 11:59:34 On 26.06.2018
+Start Output Generation At 12:33:23 On 03.07.2018
 
 Output: Перечень элементов
 Type  : BOM
@@ -11,4 +11,4 @@ From  : Variant [[No Variations]] of Project [VisitCard.PrjPcb]
 Files Generated   : 1
 Documents Printed : 0
 
-Finished Output Generation At 11:59:37 On 26.06.2018
+Finished Output Generation At 12:34:22 On 03.07.2018

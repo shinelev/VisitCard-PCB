@@ -1,49 +1,51 @@
-﻿Field=#~Integer~#~50|Field=Designator~String~Designator~100|Field=Manufacturer~String~Manufacturer~100|Field=ManufacturerPartNumber~String~ManufacturerPartNumber~100|Field=Power/Voltage~String~Power/Voltage~100|Field=Quantity~Integer~Quantity~100|Field=Rem~String~Rem~100|Field=TKE~String~TKE~100|Field=Tolerance~String~Tolerance~100|Field=Value~String~Value~100|Field=Корпус~String~Корпус~100|Field=Примечание~String~Примечание~100|ReportField=Currency~<none>|ReportField=ProductionQuantity~1|ReportField=ProjectFileName~VisitCard.PrjPcb|ReportField=ProjectFullPath~E:\YandexDisk\!Projects\Relex\PCB Visit card\VisitCard\VisitCard.PrjPcb|ReportField=Title~Перечень элементов For Project [VisitCard.PrjPcb] (No PCB Document Selected)|ReportField=TotalQuantity~48|ReportField=ReportTime~11:59:37|ReportField=ReportDate~26.06.2018|ReportField=ReportDateTime~26.06.2018 11:59:37|ReportField=OutputName~Перечень элементов|ReportField=OutputType~BOM_PartType|ReportField=GeneratorName~BOM|ReportField=GeneratorDescription~Bill of Materials|ReportField=VariantName~None|ReportField=Address1~|ReportField=Address2~|ReportField=Address3~|ReportField=Address4~|ReportField=Application_BuildNumber~|ReportField=ApprovedBy~Гриценко|ReportField=Author~Шинелев|ReportField=CheckedBy~Шинелев|ReportField=CompanyName~РЕЛЭКС|ReportField=CurrentDate~26.06.2018|ReportField=CurrentTime~11:46:24|ReportField=Date~15.06.2018|ReportField=DecimalNumber~АБВГ.123456.001Э3|ReportField=DocumentFullPathAndName~E:\YandexDisk\!Projects\Relex\PCB Visit card\VisitCard\VisitCardScheme.SchDoc|ReportField=DocumentName~VisitCardScheme.SchDoc|ReportField=DocumentNumber~|ReportField=DrawnBy~Н.Контр|ReportField=Engineer~Т.Контр|ReportField=HeadOfSector~Нач. сектора|ReportField=ImagePath~|ReportField=MainDevice~Перв.примен.|ReportField=ModifiedDate~26.06.2018|ReportField=Name~Визитная карта|ReportField=Organization~|ReportField=PageSetup~Record=PageOptions:CenterHorizontal=True:CenterVertical=True:PrintScale=0.94:XCorrection=1.00:YCorrection=1.00:PrintKind=1:BorderSize=5000000:LeftOffset=0:BottomOffset=0:Orientation=1:PaperLength=1000:PaperWidth=1000:Scale=100:PaperSource=7:PrintQuality=-4:MediaType=1:DitherType=10:PaperKind=A4:PrintScaleMode=1|ReportField=ProjectName~VisitCard.PrjPcb|ReportField=Revision~|ReportField=Rule~|ReportField=SheetNumber~1|ReportField=SheetTotal~1|ReportField=Time~|ReportField=Title~Наименование|ReportField=DataSourceFileName~VisitCard.PrjPcb|ReportField=DataSourceFullPath~E:\YandexDisk\!Projects\Relex\PCB Visit card\VisitCard\VisitCard.PrjPcb|ReportField=PCBConfigurationName~Sources|ReportField=Item~|ReportField=ItemRevision~|ReportField=ItemAndRevision~|ReportField=ItemRevisionBase~|ReportField=ItemRevisionLevel1~|ReportField=ItemRevisionLevel2~|ReportField=ItemRevisionLevel1AndBase~|ReportField=ItemRevisionLevel2AndLevel1~
+﻿Field=#~Integer~#~50|Field=Designator~String~Designator~100|Field=Manufacturer~String~Manufacturer~100|Field=ManufacturerPartNumber~String~ManufacturerPartNumber~100|Field=Power/Voltage~String~Power/Voltage~100|Field=Quantity~Integer~Quantity~100|Field=Rem~String~Rem~100|Field=TKE~String~TKE~100|Field=Tolerance~String~Tolerance~100|Field=Value~String~Value~100|Field=Корпус~String~Корпус~100|Field=Примечание~String~Примечание~100|ReportField=Currency~<none>|ReportField=ProductionQuantity~1|ReportField=ProjectFileName~VisitCard.PrjPcb|ReportField=ProjectFullPath~E:\YandexDisk\!Projects\Relex\PCB Visit card\VisitCard\VisitCard.PrjPcb|ReportField=Title~Перечень элементов For Project [VisitCard.PrjPcb] (No PCB Document Selected)|ReportField=TotalQuantity~50|ReportField=ReportTime~12:33:33|ReportField=ReportDate~03.07.2018|ReportField=ReportDateTime~03.07.2018 12:33:33|ReportField=OutputName~Перечень элементов|ReportField=OutputType~BOM_PartType|ReportField=GeneratorName~BOM|ReportField=GeneratorDescription~Bill of Materials|ReportField=VariantName~None|ReportField=Address1~|ReportField=Address2~|ReportField=Address3~|ReportField=Address4~|ReportField=Application_BuildNumber~|ReportField=ApprovedBy~Гриценко|ReportField=Author~Шинелев|ReportField=CheckedBy~Шинелев|ReportField=CompanyName~РЕЛЭКС|ReportField=CurrentDate~03.07.2018|ReportField=CurrentTime~12:32:37|ReportField=Date~15.06.2018|ReportField=DecimalNumber~АБВГ.123456.001Э3|ReportField=DocumentFullPathAndName~E:\YandexDisk\!Projects\Relex\PCB Visit card\VisitCard\VisitCardScheme.SchDoc|ReportField=DocumentName~VisitCardScheme.SchDoc|ReportField=DocumentNumber~|ReportField=DrawnBy~Н.Контр|ReportField=Engineer~Т.Контр|ReportField=HeadOfSector~Нач. сектора|ReportField=ImagePath~|ReportField=MainDevice~Перв.примен.|ReportField=ModifiedDate~03.07.2018|ReportField=Name~Визитная карта|ReportField=Organization~|ReportField=PageSetup~Record=PageOptions:CenterHorizontal=True:CenterVertical=True:PrintScale=0.94:XCorrection=1.00:YCorrection=1.00:PrintKind=1:BorderSize=5000000:LeftOffset=0:BottomOffset=0:Orientation=1:PaperLength=1000:PaperWidth=1000:Scale=100:PaperSource=7:PrintQuality=-4:MediaType=1:DitherType=10:PaperKind=A4:PrintScaleMode=1|ReportField=ProjectName~VisitCard.PrjPcb|ReportField=Revision~|ReportField=Rule~|ReportField=SheetNumber~1|ReportField=SheetTotal~1|ReportField=Time~|ReportField=Title~Наименование|ReportField=DataSourceFileName~VisitCard.PrjPcb|ReportField=DataSourceFullPath~E:\YandexDisk\!Projects\Relex\PCB Visit card\VisitCard\VisitCard.PrjPcb|ReportField=PCBConfigurationName~Sources|ReportField=Item~|ReportField=ItemRevision~|ReportField=ItemAndRevision~|ReportField=ItemRevisionBase~|ReportField=ItemRevisionLevel1~|ReportField=ItemRevisionLevel2~|ReportField=ItemRevisionLevel1AndBase~|ReportField=ItemRevisionLevel2AndLevel1~
 1|C1|Murata|GRM1885C1H220JA01D||1|||±5%|22пФ|C0603|
 2|C2|Murata|GRM1885C1H220JA01D||1|||±5%|22пФ|C0603|
 3|C3|Murata|GRM1885C1HR10BD01D||1|||±5%|100нФ|C0603|
 4|C4|TECAP|TECAP47/10VB10||1|||10%|47мкФ|CASEB|
 5|D1|Microchip\Atmel|Atmega8A-AU||1||||Atmega8A-AU|32A|
 6|F1|Siba|160016.0,4|250В|1||||Fuse 0.4A||
-7|HL1|Kingbright|KPHHS-1005MGCK||1||||KPHHS-1005MGCK|LED0402|Красный
-8|HL2|Kingbright|KPHHS-1005MGCK||1||||KPHHS-1005MGCK|LED0402|Красный
-9|HL3|Kingbright|KPHHS-1005MGCK||1||||KPHHS-1005MGCK|LED0402|Красный
-10|HL4|Kingbright|KPHHS-1005MGCK||1||||KPHHS-1005MGCK|LED0402|Красный
-11|HL5|Kingbright|KPHHS-1005MGCK||1||||KPHHS-1005MGCK|LED0402|Красный
-12|HL6|Kingbright|KPHHS-1005MGCK||1||||KPHHS-1005MGCK|LED0402|Красный
-13|HL7|Kingbright|KPHHS-1005MGCK||1||||KPHHS-1005MGCK|LED0402|Красный
-14|HL8|Kingbright|KPHHS-1005MGCK||1||||KPHHS-1005MGCK|LED0402|Красный
-15|HL9|Kingbright|KPHHS-1005MGCK||1||||KPHHS-1005MGCK|LED0402|Красный
-16|HL10|Kingbright|KPHHS-1005MGCK||1||||KPHHS-1005MGCK|LED0402|Красный
-17|HL11|Kingbright|KPHHS-1005MGCK||1||||KPHHS-1005MGCK|LED0402|Красный
-18|HL12|Kingbright|KPHHS-1005MGCK||1||||KPHHS-1005MGCK|LED0402|Красный
-19|HL13|Kingbright|KPHHS-1005MGCK||1||||KPHHS-1005MGCK|LED0402|Красный
-20|HL14|Kingbright|KPHHS-1005MGCK||1||||KPHHS-1005MGCK|LED0402|Красный
-21|HL15|Kingbright|KPHHS-1005MGCK||1||||KPHHS-1005MGCK|LED0402|Красный
-22|HL16|Kingbright|KPHHS-1005MGCK||1||||KPHHS-1005MGCK|LED0402|Красный
-23|R1|Vishay|CRCW06034K70JNEA|0.1Вт|1|||5%|2.2кОм|R0603|
-24|R2|Vishay|CRCW060368R0JNEA|0.1Вт|1|||5%|68Ом|R0603|
-25|R3|Vishay|CRCW060368R0JNEA|0.1Вт|1|||5%|68Ом|R0603|
-26|R4|Vishay|CRCW06034K70JNEA|0.1Вт|1|||5%|4.7кОм|R0603|
-27|R5|Vishay|CRCW060310K0JNEA|0.1Вт|1|||5%|10кОм|R0603|
-28|R6|Vishay|CRCW0603200RJNEA|0.1Вт|1|||5%|200Ом|R0603|
-29|R7|Vishay|CRCW0603200RJNEA|0.1Вт|1|||5%|200Ом|R0603|
-30|R8|Vishay|CRCW0603200RJNEA|0.1Вт|1|||5%|200Ом|R0603|
-31|R9|Vishay|CRCW0603200RJNEA|0.1Вт|1|||5%|200Ом|R0603|
-32|R10|Vishay|CRCW0603200RJNEA|0.1Вт|1|||5%|200Ом|R0603|
-33|R11|Vishay|CRCW0603200RJNEA|0.1Вт|1|||5%|200Ом|R0603|
-34|R12|Vishay|CRCW0603200RJNEA|0.1Вт|1|||5%|200Ом|R0603|
-35|R13|Vishay|CRCW0603200RJNEA|0.1Вт|1|||5%|200Ом|R0603|
-36|R14|Vishay|CRCW0603200RJNEA|0.1Вт|1|||5%|200Ом|R0603|
-37|R15|Vishay|CRCW0603200RJNEA|0.1Вт|1|||5%|200Ом|R0603|
-38|R16|Vishay|CRCW0603200RJNEA|0.1Вт|1|||5%|200Ом|R0603|
-39|R17|Vishay|CRCW0603200RJNEA|0.1Вт|1|||5%|200Ом|R0603|
-40|R18|Vishay|CRCW0603200RJNEA|0.1Вт|1|||5%|200Ом|R0603|
-41|R19|Vishay|CRCW0603200RJNEA|0.1Вт|1|||5%|200Ом|R0603|
-42|R20|Vishay|CRCW0603200RJNEA|0.1Вт|1|||5%|200Ом|R0603|
-43|R21|Vishay|CRCW0603200RJNEA|0.1Вт|1|||5%|200Ом|R0603|
-44|VD1|ON Semiconductor/Fairchild|MM5Z3V6TR-ND|200мВт|1|||6%|MM5Z3V6||
-45|VD2|ON Semiconductor/Fairchild|MM5Z3V6TR-ND|200мВт|1|||6%|MM5Z3V6||
-46|X1||||1||||USB||USB вилка на печати
-47|X2||||1||||||
-48|ZQ1|Multicomp|HC49SM-16-30-50-60-16-ATF||1||||16Мгц|HC-49/SM|
+7|HL1|Kingbright|KPHHS-1005MGCK||1||||KPHHS-1005MGCK|LED0402|Зеленый
+8|HL2|Kingbright|KPHHS-1005SURCK||1||||KPHHS-1005SURCK|LED0402|Красный
+9|HL3|Kingbright|KPHHS-1005MGCK||1||||KPHHS-1005MGCK|LED0402|Зеленый
+10|HL4|Kingbright|KPHHS-1005SURCK||1||||KPHHS-1005SURCK|LED0402|Красный
+11|HL5|Kingbright|KPHHS-1005MGCK||1||||KPHHS-1005MGCK|LED0402|Зеленый
+12|HL6|Kingbright|KPHHS-1005SURCK||1||||KPHHS-1005SURCK|LED0402|Красный
+13|HL7|Kingbright|KPHHS-1005MGCK||1||||KPHHS-1005MGCK|LED0402|Зеленый
+14|HL8|Kingbright|KPHHS-1005SURCK||1||||KPHHS-1005SURCK|LED0402|Красный
+15|HL9|Kingbright|KPHHS-1005MGCK||1||||KPHHS-1005MGCK|LED0402|Зеленый
+16|HL10|Kingbright|KPHHS-1005SURCK||1||||KPHHS-1005SURCK|LED0402|Красный
+17|HL11|Kingbright|KPHHS-1005SURCK||1||||KPHHS-1005SURCK|LED0402|Красный
+18|HL12|Kingbright|KPHHS-1005SYCK||1||||KPHHS-1005SYCK|LED0402|Жёлтый
+19|HL13|Kingbright|KPHHS-1005SECK||1||||KPHHS-1005SECK|LED0402|Оранжевый
+20|R1|Vishay|CRCW0603200RJNEA|0.1Вт|1|||5%|200Ом|R0603|
+21|R2|Vishay|CRCW0603200RJNEA|0.1Вт|1|||5%|200Ом|R0603|
+22|R3|Vishay|CRCW0603200RJNEA|0.1Вт|1|||5%|200Ом|R0603|
+23|R4|Vishay|CRCW0603200RJNEA|0.1Вт|1|||5%|200Ом|R0603|
+24|R5|Vishay|CRCW0603200RJNEA|0.1Вт|1|||5%|200Ом|R0603|
+25|R6|Vishay|CRCW0603200RJNEA|0.1Вт|1|||5%|200Ом|R0603|
+26|R7|Vishay|CRCW06034K7JNEA|0.1Вт|1|||5%|10кОм|R0603|
+27|R8|Vishay|CRCW060368R0JNEA|0.1Вт|1|||5%|68Ом|R0603|
+28|R9|Vishay|CRCW0603200RJNEA|0.1Вт|1|||5%|200Ом|R0603|
+29|R10|Vishay|CRCW0603200RJNEA|0.1Вт|1|||5%|200Ом|R0603|
+30|R11|Vishay|CRCW0603200RJNEA|0.1Вт|1|||5%|200Ом|R0603|
+31|R12|Vishay|CRCW0603200RJNEA|0.1Вт|1|||5%|200Ом|R0603|
+32|R13|Vishay|CRCW0603200RJNEA|0.1Вт|1|||5%|200Ом|R0603|
+33|R14|Vishay|CRCW0603200RJNEA|0.1Вт|1|||5%|200Ом|R0603|
+34|R15|Vishay|CRCW060368R0JNEA|0.1Вт|1|||5%|68Ом|R0603|
+35|R16|Vishay|CRCW06034K70JNEA|0.1Вт|1|||5%|2.2кОм|R0603|
+36|R17|Vishay|CRCW0603330RJNEA|0.1Вт|1|||5%|330Ом|R0603|
+37|R18|Vishay|CRCW0603330RJNEA|0.1Вт|1|||5%|330Ом|R0603|
+38|R19|Vishay|CRCW0603330RJNEA|0.1Вт|1|||5%|330Ом|R0603|
+39|R20|Vishay|CRCW0603330RJNEA|0.1Вт|1|||5%|330Ом|R0603|
+40|R21|Vishay|CRCW06034K70JNEA|0.1Вт|1|||5%|4.7кОм|R0603|
+41|R22|Vishay|CRCW0603200RJNEA|0.1Вт|1|||5%|200Ом|R0603|
+42|SB1|TE Connectivity|FSM1LP||1||||1-1437565-6||
+43|SB2|TE Connectivity|FSM1LP||1||||1-1437565-6||
+44|SB3|TE Connectivity|FSM1LP||1||||1-1437565-6||
+45|SB4|TE Connectivity|FSM1LP||1||||1-1437565-6||
+46|VD1|ON Semiconductor/Fairchild|MM5Z3V6TR-ND|200мВт|1|||6%|MM5Z3V6||
+47|VD2|ON Semiconductor/Fairchild|MM5Z3V6TR-ND|200мВт|1|||6%|MM5Z3V6||
+48|X1||||1||||USB||USB вилка на печати
+49|X2||||1||||||
+50|ZQ1|Multicomp|HC49SM-16-30-50-60-16-ATF||1||||HC-49SM 16 Мгц|HC-49/SM|
