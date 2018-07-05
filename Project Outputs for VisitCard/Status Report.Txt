@@ -1,9 +1,19 @@
-Output: Bill of Materials
-Type  : BOM
+Output: Gerber Files
+Type  : Gerber
 From  : Variant [[No Variations]] of Project [VisitCard.PrjPcb]
+   Generated File[VisitCardPCB.GTL]
+   Generated File[VisitCardPCB.GBL]
+   Generated File[VisitCardPCB.GTO]
+   Generated File[VisitCardPCB.GTS]
+   Generated File[VisitCardPCB.GBS]
+   Generated File[VisitCardPCB.GBO]
+   Generated File[VisitCardPCB.GM1]
+   Generated File[VisitCardPCB.RUL]
+   Generated File[VisitCardPCB.EXTREP]
+   Generated File[VisitCardPCB.REP]
 
 
-Files Generated   : 0
+Files Generated   : 10
 Documents Printed : 0
 
-Finished Output Generation At 13:01:35 On 03.07.2018
+Finished Output Generation At 10:54:36 On 04.07.2018
